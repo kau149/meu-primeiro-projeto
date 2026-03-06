@@ -1,7 +1,7 @@
 # meu-primeiro-projeto: **Código em Python**
 --------------------------------------------
 
-comando = "mover", "norte", 120
+comando = "mover", "norte", 140
 
 match comando:
     case "decolar":
